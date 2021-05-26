@@ -7,4 +7,4 @@ Green Medical is an application where you can check your health from anywhere ar
 5. It also has a feature to directly chat with the company representative.
 
 ## Web-App Link
-https://kunal-26.github.io/Hoya-Hacks---Team-68/
+https://adityakumari.github.io/green-medical/
